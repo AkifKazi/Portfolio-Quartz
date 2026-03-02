@@ -2,11 +2,17 @@
 title: IoT Inventory Management
 tags:
 ---
-Overview
+#Inventory #IoT #UI_Design #UX_Research #Team #Arduino 
 
-This was a month long student project for the course of IoT. Our team consisted of 6 people. My role was to create the UI/UX of the student interface. I also helped in overall strategy, training the image recognition model and creating the demo video.   The primary objective of our IoT-based inventory management system was to reduce wastage and streamline the issuing and returning processes of design materials at SSD (Somaiya School of Design). These materials ranged from expensive items like ink and oil paints to inexpensive ones like paperclips and pencils, all provided free of charge to students.
+## Overview
 
-Problem Analysis
+This was a month long student project for the course of IoT. Our team consisted of 6 people. My role was to create the UI/UX of the student interface. I also helped in overall strategy, training the image recognition model and creating the demo video. 
+
+> [!insight] 
+> 
+> The primary objective of our IoT-based inventory management system was to reduce wastage and streamline the issuing and returning processes of design materials at SSD (Somaiya School of Design). These materials ranged from expensive items like ink and oil paints to inexpensive ones like paperclips and pencils, all provided free of charge to students.
+
+## Problem Analysis
 
 Tracking Issues  
 The SSD inventory lacked an accurate method of tracking issued and returned items. which led to Bulk buying due to poor tracking, Misuse and loss of materials and Wasted resources.  
@@ -17,7 +23,7 @@ Students were impatient and reluctant to log small item issuances in the physica
 Caretaker Overload  
 The inventory caretaker spent significant time searching for items, managing irresponsible students, and manually tracking stock levels through visual inspection. This often resulted in last-minute restocking and bulk purchasing, as it was sometimes faster and cheaper to buy new items than to find existing ones in storage.
 
-Research
+## Research
 
 Innovative Models  
 We drew inspiration from systems like Amazon Go, Amazon Fresh, and self-checkout processes. We studied these systems to develop an efficient, user-friendly approach to material issuing and returning.  
@@ -25,9 +31,9 @@ We drew inspiration from systems like Amazon Go, Amazon Fresh, and self-checkout
 Stakeholder Interviews  
 We conducted interviews with students, caretakers, procurement staff and instructors to better understand the pain points and needs of each group. We also analyzed the physical ledger to track usage patterns and identified that most items not returned were in the low-cost category (we are excluding materials like paper that get used up in projects).
 
-Proposed Solution
+## Proposed Solution
 
-Categorization of Items  
+Categorisation of Items  
 Based on our analysis, we divided inventory into three categories:
 
 Low priority- Commonly used by design students on a daily basis, such as scissors, cutters, and tape.
@@ -36,7 +42,7 @@ Mid priority- occasionally used by students and range in price from around 300 t
 
 High priority tools and resources priced above 1000 rupees, often with limited availability.
 
-Decentralizing Low Priority Items  
+Decentralising Low Priority Items  
 To reduce wastage and misuse, we placed low-priority items directly in classrooms. Each class was given a fixed stock of these materials to manage. This shift:  
 
 - Eliminated the need for students to write in the ledger for small items
@@ -45,7 +51,7 @@ To reduce wastage and misuse, we placed low-priority items directly in classroom
 
   
 IoT Integration and Image Recognition  
-For higher-value materials, we implemented an IoT-enabled system using RFID cards and motorized locks. The issuing process was simple:  
+For higher-value materials, we implemented an IoT-enabled system using RFID cards and motorised locks. The issuing process was simple:  
 
 - Students scan their RFID card to log in, which triggers the CCTV and unlocks the cabinet.
 - Students select items from the cupboard, place them on a scanning tray, and close the door.
@@ -60,7 +66,7 @@ We had to strike a balance between ease of use and system security. If the proce
   
 The key sweet spot was the image recognition system, which replaced the tedious process of manually logging items in a ledger. This not only reduced misuse but also made the process faster and less cumbersome for students.
 
-Prototyping
+## Prototyping
 
 For the student interface UI/UX, I drew inspiration from our college library’s book issuing system. The always-on login screen, ID card scanning, and item checkout process were adapted to fit our scenario. Usability heuristics, such as visibility of system status through breadcrumbs and guides, user control, and consistency, were prioritized.  
   
@@ -102,7 +108,7 @@ While the image recognition model was trained in minutes during the prototype ph
 Behavioral Solutions  
 One of the behavioral challenges we considered was theft or failure to return items. One idea was to add price tags next to each item being issued to remind students of the cost. However, this was discarded due to varying perceptions of item value. Instead, we focused on surveillance and the seamless, accountable system to discourage theft.
 
-Learnings
+## Learnings
 
 Technical Hurdles  
 One of the main challenges was ensuring the technical components worked seamlessly together. Connecting multiple devices, such as the RFID scanner, NodeMCU, and image recognition system, required significant troubleshooting and trial and error.  
