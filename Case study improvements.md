@@ -1,0 +1,24 @@
+- [ ] Make a flowchart/diagram of the process we followed. 
+- [ ] put the problem analysis points in the seperate note and backlink it
+- [ ] there are no personas and journeys here. we need to make those. the behaviors and others will have backlinks from here
+- [ ] put a behaviour analysis and considerations as a section
+- [ ] make interesting heading similar to dont make me think. "you say tomahto, i say focus groups". what if my headings are related to my interests in humanism etc
+- [ ] change the term "priority" to "value" in item and update the graphic as well
+- [ ] make sure that the tense is proper, whether we have done it or are planning to do it needs to be clear. here we havent implemented it so it needs to be "we will place.."
+- [ ] a simple workflow of the iot system. try to see how eleven lab did it.
+- [ ] make sure to have a system archetecture as well in iot
+- [ ] make iot details as a seperate page with backlink
+- [ ] use the image training and demo video as sep pages and backlinks
+- [ ] the heuristic evaluation can be a sep page with bacaklink
+- [ ] make sure to show the before and after in the user flow/task flow as a diagram
+- [ ] how do you think the students behaviour will change if we showed money
+- [ ] how do you think this will perform and your reasoning, how will this effect long term
+- [ ] what is the root cause of the wastage
+- [ ] what things did we follow from the goal direced design approach
+- [ ] what update do you have on the development side, i was working on an app which will be actually implemented too
+- [ ] how else did you evaluate it, sus, nasa tlx, and others
+- [ ] what did you really learn from this project, and how did you tackle challenges.
+- [ ] give impact not in numbers but in effect to a person.
+- [ ] you can focus on how this helped the environment and species other than humans too.
+
+

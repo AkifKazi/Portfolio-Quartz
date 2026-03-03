@@ -1,16 +1,19 @@
 ---
 title: IoT Inventory Management
 tags:
+  - Inventory
+  - IoT
+  - UI_Design
+  - UX_Research
+  - Team
+  - Arduino
 ---
-#Inventory #IoT #UI_Design #UX_Research #Team #Arduino 
-
 ## Overview
 
-This was a month long student project for the course of IoT. Our team consisted of 6 people. My role was to create the UI/UX of the student interface. I also helped in overall strategy, training the image recognition model and creating the demo video. 
+This was a month long student project for the course of IoT. Our team consisted of 6 people. My role was to create the UI/UX of the student interface. I also helped in overall strategy, [[training the image recognition model]] and creating the demo video. 
 
-> [!insight] 
-> 
-> The primary objective of our IoT-based inventory management system was to reduce wastage and streamline the issuing and returning processes of design materials at SSD (Somaiya School of Design). These materials ranged from expensive items like ink and oil paints to inexpensive ones like paperclips and pencils, all provided free of charge to students.
+
+The primary objective of our IoT-based inventory management system was to [[reduce wastage]] and [[streamline the issuing and returning processes]] of design materials at SSD (Somaiya School of Design). These materials ranged from expensive items like ink and oil paints to inexpensive ones like paperclips and pencils, all provided free of charge to students.
 
 ## Problem Analysis
 

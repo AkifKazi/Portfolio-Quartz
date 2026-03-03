@@ -1,9 +1,10 @@
 ---
 title: HDFC Mobile Banking
 tags:
+  - Banking
+  - UX_Research
+  - Team
 ---
-#Banking #UX_Research #Team 
-
 Overview
 
 The primary goal was to leverage mobile-specific technology—such as biometrics, cloud connectivity, and local file access—to simplify and streamline the home loan application and funds transfer processes. Our aim was to reduce unnecessary steps and enhance the overall user experience, particularly targeting mobile-first users.  
