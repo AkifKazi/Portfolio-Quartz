@@ -39,7 +39,7 @@ export default {
       createdWith: "Akif Kazi",
     },
     graph: {
-      title: "Graph View",
+      title: "Interactive Graph",
     },
     recentNotes: {
       title: "Recent Notes",
@@ -51,10 +51,10 @@ export default {
     },
     search: {
       title: "Search",
-      searchBarPlaceholder: "Search for something",
+      searchBarPlaceholder: "Search notes",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "On This Page",
     },
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
